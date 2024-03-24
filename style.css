@@ -1,0 +1,17 @@
+
+.search-bar button {
+    background-color: #ccc;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  
+  .search-bar button:hover {
+    background-color: #008000;
+    color: #fff;
+  }
+  
